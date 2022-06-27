@@ -1,0 +1,38 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+	background: linear-gradient(to bottom, white, #002f4e);
+}
+
+.container{
+	font-size: 1.5em;
+	color:#f3f3f3;
+}
+
+table
+{
+	margin:0 auto;
+	border-collapse:initial;
+	border: 1px solid black;
+	background: #012031;
+	text-align: center;
+	
+}
+
+td
+{
+	padding:10px 40px;
+	border: 1px solid black;
+	text-align: center;
+	background: #f3f3f3;
+	font-weight: bold;
+}
+
+th
+{
+	padding:10px;
+	border: 1px solid rgb(0, 0, 0);
+	background-color: #feffff;
+}
